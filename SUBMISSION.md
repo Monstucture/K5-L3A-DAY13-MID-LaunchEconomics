@@ -12,7 +12,7 @@
 ### Repo bài nộp nhóm
 
 ```text
-K5-L3A-DAY13-TenNhom-LaunchEconomics
+K5-L3A-DAY13-MID-LaunchEconomics
 ```
 
 Lớp L3B thay `L3A` bằng `L3B`. `TenNhom` viết không dấu, không khoảng trắng. Repo phải public, hoặc đã mời giảng viên vào.
