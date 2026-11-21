@@ -4,7 +4,7 @@
 
 ## Hai bộ nhãn độc lập
 
-Người gắn nhãn 1: Long · Người gắn nhãn 2: thành viên 3 (GitHub CTNone) (gắn trong 8 phút, không trao đổi)
+Người gắn nhãn 1: Long · Người gắn nhãn 2: Nhất (gắn trong 8 phút, không trao đổi)
 
 | Ca | Nhãn người 1 | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |
