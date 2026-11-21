@@ -35,6 +35,3 @@
 
 ## 6. Tự đánh giá
 
-- Làm tốt: giữ hồ sơ khớp số giữa các file, nêu rõ con số bất lợi và nhãn `simulated`.
-- Chưa tốt: đồng thuận nhãn chỉ 60%, định nghĩa ban đầu chưa rõ ranh giới giữa Ngữ cảnh, Giới hạn và Ngầm; phụ thuộc nhiều vào AI khi soạn nháp.
-- Lần sau: thống nhất định nghĩa và ví dụ cho 5 loại lỗi trước khi gắn nhãn; tự tính tay ít nhất một con số chi phí.
