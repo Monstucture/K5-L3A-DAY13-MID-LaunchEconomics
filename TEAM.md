@@ -28,25 +28,3 @@ Bốn vai của lab:
 
 Mỗi thành viên đồng thời tạo một báo cáo riêng trong `report/team/` theo dạng `MSSV_HoTen.md`.
 
-## Chu Than Nhat-2A202603649
-
-### Phần việc phụ trách
-
-- Kiểm tra độc lập kết quả A và B, điền/rà `report/team/bang_chi_phi.md`.
-- Gắn nhãn 20 ca độc lập với Người gắn nhãn 2; bàn giao nhãn để ghi vào `report/team/bang_loi.md`.
-- Tính hoặc kiểm tra cỡ mẫu D1 và điền `report/team/pilot_plan.yaml`.
-- Bổ sung hai rủi ro kinh tế vào `report/team/chi_so.md` theo bảng độ nhạy.
-
-### Đóng góp cụ thể
-
-- Đối chiếu CPS A2: 4.373.585 / 978 ≈ 4.472 đ/việc thành công.
-- Rà các kịch bản B1–B4 và thứ hạng tác động của làm lại, xem lại, lương nhân viên.
-- Gắn nhãn 20 ca độc lập; phối hợp so nhãn sau khi cả hai bộ nhãn được ghi vào hồ sơ.
-- Kiểm tra số D1, dùng số đã xác nhận trong kế hoạch pilot và lấy số độ nhạy cho các rủi ro kinh tế.
-
-### Bằng chứng
-
-- `report/team/bang_chi_phi.md`: phép đối chiếu CPS A2 và các bảng A, B.
-- `report/team/bang_loi.md`: bảng đối chiếu đang cần nhập đủ nhãn, tính đồng thuận và chốt quy tắc phân loại.
-- `report/team/pilot_plan.yaml`: thông số D1 và luật dừng.
-- `report/team/chi_so.md`: rủi ro kinh tế từ bảng độ nhạy.
