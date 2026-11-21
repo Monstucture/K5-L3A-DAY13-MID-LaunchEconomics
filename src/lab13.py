@@ -201,6 +201,18 @@ if __name__ == '__main__':
         hoa_von = (BASELINE * tc - tien_run - len(lam_lai) * phut_lam * LUONG_PHUT) / (n_xem * LUONG_PHUT)
         print(f'  {nhan:24s} tổng {tong:12,.0f} đ · cps {cps:7,.0f} đ = {cps / BASELINE:.2f}× · hoà vốn xem lại ≤ {hoa_von:.1f} phút')
     # ---------- Nhiệm vụ D1 · Cỡ mẫu theo ba cách chia ----------
+    # D1 (baseline 0,70; alpha 0,05; power 0,8; ICC 0,02):
+    # a) Chia theo yêu cầu: 1.251 yêu cầu mỗi nhóm.
+    # b) Theo nhân viên, m=75: DE=2,48; cần 3.103 yêu cầu/nhóm,
+    #    tương đương 42 nhân viên/nhóm (84 tổng), vượt 40 nhân viên hiện có.
+    # c) 20 nhân viên/nhóm: trần hiệu dụng c/ICC = 1.000 < 1.251.
+    # d) 6 depot/nhóm: trần hiệu dụng c/ICC = 300.
+    # e) Chấp nhận MDE 6 điểm: 859/nhóm; 20 nhân viên/nhóm cần m>=299
+    #    yêu cầu/người (DE=6,96). Nếu tác động thật chỉ 5 điểm, power khoảng 0,64.
+    # D2: đối chứng chạy cùng tuần/depot; phân nhân viên ngẫu nhiên có seed,
+    #    phân tầng theo depot; hạn chế chia sẻ bằng quyền truy cập theo tài khoản
+    #    và log staff_id; chốt chỉ số/ngưỡng/dừng/ngày quyết định trước; 20 cụm/nhóm.
+    # Chọn chia theo nhân viên, chấp nhận phát hiện được mức 6 điểm thay vì 5.
     # Cho sẵn: baseline 0,70; mục tiêu +5 điểm; alpha 0,05; power 0,8; ICC 0,02; 40 nhân viên, 12 depot.
     ICC, NV_TONG = 0.02, 40
     n_a = co_mau(0.70, 0.75)
