@@ -8,26 +8,26 @@ Người gắn nhãn 1: Long · Người gắn nhãn 2: ... (gắn trong 8 phút
 
 | Ca | Nhãn người 1 | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |
-| 1 | ... |Do người dùng| ... | ... |
-| 2 | ... |Hệ thống |  ... | ... |
-| 3 | ... | Ngầm | ... | ... |
-| 4 | ... | Giới hạn hệ thống |  ... | ... |
-| 5 | ... | Ngầm | ... | ... |
-| 6 | ... | Do người dùng | ... | ... |
-| 7 | ... | Hệ thống | ... | ... |
-| 8 | ... | Hệ thống | ... | ... |
-| 9 | ... | Giới hạn hệ thống | ... | ... |
-| 10 | ... | Ngữ  | ... | ... |
-| 11 | ... | Giới hạn hệ thống | ... | ... |
-| 12 | ... | Hệ thống | ... | ... |
-| 13 | ... | Giới hạn hệ thống | ... | ... |
-| 14 | ... | Hệ thống | ... | ... |
-| 15 | ... | Hệ thống | ... | ... |
-| 16 | ... | Do người dùng | ... | ... |
-| 17 | ... | Ngầm  | ... | ... |
-| 18 | ... | Ngữ cảnh | ... | ... |
-| 19 | ... | Giới hạn hệ thống | ... | ... |
-| 20 | ... | Hệ thống | ... | ... |
+| 1 | Do người dùng | Do người dùng | ... | ... |
+| 2 | Hệ thống | Hệ thống | ... | ... |
+| 3 | Hệ thống | Ngầm | ... | ... |
+| 4 | Giới hạn hệ thống | ... | ... | ... |
+| 5 | Ngầm | Giới hạn hệ thống | ... | ... |
+| 6 | Do người dùng | Do người dùng | ... | ... |
+| 7 | Hệ thống | Hệ thống | ... | ... |
+| 8 | Hệ thống | Hệ thống | ... | ... |
+| 9 | Ngữ cảnh | Giới hạn hệ thống | ... | ... |
+| 10 | Giới hạn hệ thống | Ngữ cảnh | ... | ... |
+| 11 | Giới hạn hệ thống | Giới hạn hệ thống | ... | ... |
+| 12 | Ngầm | Hệ thống | ... | ... |
+| 13 | Giới hạn hệ thống | Giới hạn hệ thống | ... | ... |
+| 14 | Do người dùng | Hệ thống | ... | ... |
+| 15 | Hệ thống | Hệ thống | ... | ... |
+| 16 | Giới hạn hệ thống | Do người dùng | ... | ... |
+| 17 | Ngầm | Ngầm | ... | ... |
+| 18 | Ngữ cảnh | Ngữ cảnh | ... | ... |
+| 19 | Giới hạn hệ thống | Giới hạn hệ thống | ... | ... |
+| 20 | Hệ thống | Hệ thống | ... | ... |
 
 **Tỉ lệ đồng thuận:** ... / 20 = ...%
 

@@ -132,6 +132,15 @@ if __name__ == '__main__':
         print(f'  {ten:20s} {viec:8,.0f} việc/tháng · cố định {cd:6,.0f} đ/việc · '
               f"cps + cố định {r_pv['cps'] + cd:6,.0f} đ = {(r_pv['cps'] + cd) / BASELINE:.2f}×")
 
+    # ---------- D3 · Tỉ lệ mở lại hiện tại (chỉ số an toàn), tính TRƯỚC khi đặt luật dừng ----------
+    pv_mask = reqs['loai'].isin(['noi_dia', 'hang_nang'])
+    print('\nD3 · Tỉ lệ mo_lai_trong_7_ngay hiện tại (chạy thử, chưa có nhóm đối chứng)')
+    print(f"  toàn bộ: {reqs['mo_lai_trong_7_ngay'].mean():.2%} ({reqs['mo_lai_trong_7_ngay'].sum()}/{len(reqs)})")
+    print(f"  phạm vi noi_dia + hang_nang: {reqs.loc[pv_mask, 'mo_lai_trong_7_ngay'].mean():.2%} "
+          f"({reqs.loc[pv_mask, 'mo_lai_trong_7_ngay'].sum()}/{pv_mask.sum()})")
+    for loai, nhom in reqs.groupby('loai'):
+        print(f"  {loai:10s} {nhom['mo_lai_trong_7_ngay'].mean():6.2%} ({nhom['mo_lai_trong_7_ngay'].sum()}/{len(nhom)})")
+
     # Chạy lại có giúp không: tỉ lệ lần chạy ok theo từng lần thử
     print('\nTỉ lệ lần chạy ok theo lần thử (attempt) và loại')
     lan = runs.merge(reqs[['request_id', 'loai']], on='request_id')
