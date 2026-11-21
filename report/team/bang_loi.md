@@ -8,7 +8,7 @@ Người gắn nhãn 1: Long · Người gắn nhãn 2: ... (gắn trong 8 phút
 
 | Ca | Nhãn người 1 | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |
-| 1 | Hệ thống | ... | ... | ... |
+| 1 | Do người dùng | ... | ... | ... |
 | 2 | Hệ thống | ... | ... | ... |
 | 3 | Hệ thống | ... | ... | ... |
 | 4 | Giới hạn hệ thống | ... | ... | ... |
