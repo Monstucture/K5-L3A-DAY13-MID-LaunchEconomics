@@ -11,9 +11,9 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
-|   2 |        |      |       |        |         |
-|   3 |        |      |       |        |         |
+|   1 | Trần Thanh Long | 2A202603674 | 26ai.longtt2@vinuni.edu.vn |  | Người gắn nhãn 1, Người gắn nhãn 2, kiêm giữ hồ sơ |
+|   2 | Phạm Cát Tân | 2A202603678 | tanpham090921@gmail.com | captainpham | Người viết code |
+|   3 |       |      |       |        |         |
 |   4 |        |      |       |        |         |
 
 Bốn vai của lab:
