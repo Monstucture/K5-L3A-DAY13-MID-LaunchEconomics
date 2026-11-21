@@ -52,7 +52,7 @@ Trong phạm vi: 900 việc thành công trên 1.200 yêu cầu của mẫu, t�
 
 ## B1 · Đổi từng yếu tố
 
-Chi phí gốc (A2): 4.472 đ [simulated].
+Chi phí gốc (A2): 4.472 đ [simulated]. Đã đối chiếu độc lập từ 1.624 dòng `logix_runs.csv` và 1.200 dòng `logix_requests.csv`; dùng mặc định 26/130 đ mỗi 1.000 token, 15 đ/lần gọi tool, 2.000 đ/phút nhân viên. Các khoản xem lại/làm lại dùng phút `_simulated`.
 
 | Kịch bản | Cách tính | Chi phí mỗi việc thành công | Thay đổi (%) |
 | --- | --- | ---: | ---: |
@@ -69,7 +69,7 @@ Chi phí gốc (A2): 4.472 đ [simulated].
 ## B2 · Đổi một cặp và xếp hạng
 
 - Giá token gấp đôi cùng lúc tỉ lệ xem lại gấp đôi: 6.543 đ (+46,3%) [simulated], đúng bằng tổng hai tác động riêng (5,6% + 40,7%) vì mô hình cộng tuyến tính.
-- Xếp hạng ba yếu tố ảnh hưởng mạnh nhất: 1. số ca làm lại (+51,8%) · 2. tỉ lệ xem lại (+40,7%) · 3. lương nhân viên (+23,1%) [simulated].
+- Xếp hạng theo mức biến động lớn nhất trong các kịch bản B1: 1. số ca làm lại (+51,8%; giảm một nửa: −25,9%) · 2. tỉ lệ xem lại (+40,7%; giảm một nửa: −20,3%) · 3. lương nhân viên (+23,1%) [simulated].
 
 ## B3 · Giới hạn chạy lại có thật sự rẻ hơn
 

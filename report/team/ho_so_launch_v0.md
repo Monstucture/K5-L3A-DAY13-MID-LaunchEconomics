@@ -7,12 +7,12 @@ Nhóm: ... · Lớp: ...
 | Mục | Con số chính | Trạng thái | Người phụ trách |
 | --- | --- | --- | --- |
 | 1 · Chi phí mỗi việc thành công | ... | ... | ... |
-| 2 · Ba yếu tố nhạy nhất | ... | ... | ... |
+| 2 · Ba yếu tố nhạy nhất | Làm lại ×2: 6.787 đ/việc (+51,8%); xem lại ×2: 6.292 đ (+40,7%); lương +25%: 5.506 đ (+23,1%); gốc 4.472 đ/việc [simulated] | Giả lập | Người giữ hồ sơ (Trần Thanh Long) |
 | 3 · So với nhân viên tự làm | ... | ... | ... |
 | 4 · Chỉ số chính, chỉ số dùng, chỉ số an toàn | ... | ... | ... |
 | 5 · Bảng lỗi và cách khắc phục | ... | ... | ... |
 | 6 · Pilot plan | ... | ... | ... |
-| 7 · Rủi ro kinh tế | ... | ... | ... |
+| 7 · Rủi ro kinh tế | Làm lại ×2 đẩy CPS lên 6.787 đ (+51,8%); xem lại ×2 lên 6.292 đ (+40,7%). Giới hạn 2 lần có tổng hệ thống 6.901.220 đ, thấp hơn giới hạn 3 lần 136.365 đ [simulated] | Giả lập | Người giữ hồ sơ (Trần Thanh Long) |
 
 **Đề xuất:** Go · Go có điều kiện · No-go (giữ một). Go có điều kiện: ghi từng điều kiện, người phụ trách, ngày kiểm tra. No-go: ghi việc phải làm để quay lại cổng.
 
