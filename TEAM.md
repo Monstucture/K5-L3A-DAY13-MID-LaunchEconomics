@@ -13,7 +13,7 @@
 | --: | ------ | ---- | ----- | ------ | ------- |
 | 1 | Trần Thanh Long | 2A202603674 | 26ai.longtt2@vinuni.edu.vn |  | Người gắn nhãn 2, kiêm giữ hồ sơ |
 | 2 | Phạm Cát Tân | 2A202603678 | tanpham090921@gmail.com | captainpham | Người viết code |
-| 3 | Chu Than Nhat | 2A202603649 | Chưa cung cấp |  | Người kiểm số, Người gắn nhãn 1 |
+| 3 | Chu Than Nhat | 2A202603649 | nhatthanchu@gmail.com | CTNone  | Người kiểm số, Người gắn nhãn 1 |
 
 Bốn vai của lab:
 
